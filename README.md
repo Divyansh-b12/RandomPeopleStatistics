@@ -10,3 +10,4 @@ Add an option to your client to use the file as a cache instead of calling the A
 
 Use your client to return statistics on the stored objects. Give the average age of the 10 users (use the date_of_birth property to determine age). Return the top 5 oldest from the cache and the top 5 youngest from the cache.
 
+Please use the `typing` module and provide docstrings for all functions.
