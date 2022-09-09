@@ -4,7 +4,7 @@ The goal of this test is to create an python API client for the following user a
 
 Use the API client to call the api 10 times.
 
-Convert the returned responses into instances of a python class. Serialize the objects and store them in a local file. You should be able to serialize and de-serialize the serialization to and from a python class. The python class doesn't need to have all properties from the API but should have most. 
+Convert the returned responses into a local file. 
 
 Add an option to your client to use the file as a cache instead of calling the API directly.
 
